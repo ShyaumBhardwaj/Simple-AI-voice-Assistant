@@ -17,7 +17,7 @@ Provides current time information upon request.
 ### GUI: 
 Features a simple and intuitive graphical user interface for easy interaction.
 ## Technologies Used
- OpenAI GPT-3
+ OpenAI GPT
  Speech Recognition
  win32com.client (for SAPI)
  tkinter
